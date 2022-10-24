@@ -17,6 +17,11 @@ To provide high-value content to the community, the editors review article submi
 * Content does not have to be vendor-neutral, but a press release or commercial announcement that does not outline feature benefits or how to use the project / product is not appropriate.
 * No gated content, unless in the webinar section.
 * Articles should be published within the last week. Exceptions will be made for good content we missed.
+* Only one article, per company, per week depending on availability
+* Submissions must be in by Wednesday
+* Must be published within the last two weeks
+* Content must be focused on cloud native, open source technologies, or CNCF projects
+
 
 
 **Types of Content**
